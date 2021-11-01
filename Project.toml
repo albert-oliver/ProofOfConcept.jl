@@ -3,6 +3,9 @@ uuid = "22af0018-28c8-486e-a170-063d90be3271"
 authors = ["Albert Oliver <albert.oliver@ulpgc.es> and contributors"]
 version = "0.1.0"
 
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [compat]
 julia = "1"
 
